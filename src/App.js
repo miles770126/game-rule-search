@@ -24,7 +24,8 @@ const SHARED_FILES = [
 "d13.md",
 "d14.md",
 "d15.md",
-"d16.md"
+"d16.md",
+"d17.md"
 
 ];
 
